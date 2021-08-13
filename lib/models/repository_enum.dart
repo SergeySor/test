@@ -1,0 +1,1 @@
+enum RepositoryEnum { goodResponse, error }
